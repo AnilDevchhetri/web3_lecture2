@@ -5,4 +5,5 @@ fun main(args: Array<String>) {
     // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
     println("Program argument this is code")
     println("this is new updages")
+    println("this is my new updates")
 }
